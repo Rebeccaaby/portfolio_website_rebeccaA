@@ -7,7 +7,7 @@ export const personal = {
   phone: "(814) 350-1680",
   linkedin: "https://www.linkedin.com/in/rebecca-abraham-0a9337198/",
   github: "https://github.com/Rebeccaaby",
-  resumeUrl: "/Rebecca Abraham_Resume.pdf",
+  resumeUrl: "/portfolio_website_rebeccaA/Rebecca Abraham_Resume.pdf",
   about:
     "I'm a software engineer with a background in building reliable systems, backend services, and data-driven applications. I recently completed my Master's in Computer Science at the University at Buffalo, focusing on systems, machine learning, and large-scale data processing. I've worked across embedded systems and full-stack development — from maintaining production-level C/C++ software in the rail industry to building Python APIs, data pipelines, and AI-driven tools.",
   aboutExtra:
